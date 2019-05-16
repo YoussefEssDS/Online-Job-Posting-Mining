@@ -7,8 +7,11 @@ Using SPSS modeler and the Armenian human resource portal "CareerCenter" dataset
 ## More particularily we are looking to:
 
   1- Understand the demand for particular jobs.
+  
   2- Detect major industries in order to help universities and higher education institutions to build/modify their curriculums.
+  
   3- Identify skills that are most required by employers.
+  
   4- Provide recommendations for job seekers and employers. 
   
  As an interesting we can build a chatbot that would incorporate this tool, to make it even intuitive for employers and job seekers.
