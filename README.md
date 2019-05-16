@@ -1,6 +1,6 @@
 # Online-Job-Posting-Mining
 
-## Data set: https://www.kaggle.com/madhab/jobposts/downloads/online-job-postings.zip/1
+## Dataset: https://www.kaggle.com/madhab/jobposts/downloads/online-job-postings.zip/1
 
 Using SPSS modeler and the Armenian human resource portal "CareerCenter" dataset of online job postings, I will elaborate different models that will provide us with insights on different aspects of the employement market between 2004 and 2015.
 
