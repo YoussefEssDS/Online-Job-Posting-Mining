@@ -15,3 +15,7 @@ Using SPSS modeler and the Armenian human resource portal "CareerCenter" dataset
   4- Provide recommendations for job seekers and employers. 
   
  As an interesting we can build a chatbot that would incorporate this tool, to make it even intuitive for employers and job seekers.
+
+This is a resume of obtained results, illustrating the requirements of different job fields:
+
+![Capture](https://user-images.githubusercontent.com/47015407/59955621-37d76380-9483-11e9-8d95-b4937313f4b6.PNG)
