@@ -20,4 +20,4 @@ This is a resume of obtained results, illustrating the requirements of different
 
 ![Capture](https://user-images.githubusercontent.com/47015407/59955621-37d76380-9483-11e9-8d95-b4937313f4b6.PNG)
 
-### The percentage indicates how much the requirement is needed within the given job field!
+##### The percentage indicates how much the requirement is needed within the given job field!
