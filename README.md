@@ -20,4 +20,4 @@ This is a foretaste of obtained results, illustrating some of the requirements o
 
 ![Capture](https://user-images.githubusercontent.com/47015407/59955621-37d76380-9483-11e9-8d95-b4937313f4b6.PNG)
 
-##### The percentage indicates how much the requirement is needed within the given job field, in other words the amount of job offers in a given domain that demand a certain requirements, e.g: 50% of IT jobs require having an academic  
+##### The percentage indicates how much the requirement is needed within the given job field, in other words the amount of job offers in a given domain that demand a certain requirements, e.g: 50% of IT jobs require having an academic degree.
